@@ -43,7 +43,6 @@ namespace EFMigrationsLimitations
     public class Item
     {
         public int Id { get; set; }
-        public int AnotherDev { get; set; }
         public string Master { get; set; }
     }
 }
