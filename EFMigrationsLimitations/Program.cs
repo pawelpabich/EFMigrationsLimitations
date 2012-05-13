@@ -44,5 +44,6 @@ namespace EFMigrationsLimitations
     {
         public int Id { get; set; }
         public string Master { get; set; }
+        public string AnotherDev { get; set; }
     }
 }
