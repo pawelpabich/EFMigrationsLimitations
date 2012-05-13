@@ -72,6 +72,10 @@
     <Compile Include="Migrations\201205131419505_AddedAnotherDev.Designer.cs">
       <DependentUpon>201205131419505_AddedAnotherDev.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201205131418379_AddedMaster.cs" />
+    <Compile Include="Migrations\201205131418379_AddedMaster.Designer.cs">
+      <DependentUpon>201205131418379_AddedMaster.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
